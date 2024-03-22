@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  background-color: #f3f3e9;
+}
+code{
+  font-family:source-code-pro,Menlo,Manaco,Consolas,'Courier New',monospace;
+}
+h1{
+  text-align: center;
+  margin-top: 10px;
+  width: 100%;
+  margin: 0;
+}
+.app-conatiner{
+  text-align: center;
+}
+.table-container{
+  margin-top: 20px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+.upload-conatiner{
+  margin-top: 10px;
+  text-align: center;
+}
+.upload-conatiner input{
+  display: inline-block;
+}
